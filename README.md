@@ -1,4 +1,4 @@
-# Decrypt-an-encrypted-message
+# Decrypt an encrypted message
 
 Activity overview
 Previously, you learned about cryptography and how encryption and decryption can be used to secure information online. You were also introduced to the Caesar cipher, one of the earliest cryptographic algorithms used to protect people’s privacy.
